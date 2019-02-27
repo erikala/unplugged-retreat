@@ -300,6 +300,13 @@ input[type=button] {
   background-position: center;
 }
 
+.features i {
+	font-size: 3.75em;
+  margin-bottom: 40px;
+  text-align: center;
+  color: #e2e3ed;
+}
+
 .features h2 {
   margin-bottom: 60px;
 }
